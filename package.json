@@ -1,0 +1,22 @@
+{
+  "name": "hello-golf",
+  "version": "1.0.0",
+  "description": "test na",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOLFJT/hello-golf.git"
+  },
+  "keywords": [
+    "golf"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GOLFJT/hello-golf/issues"
+  },
+  "homepage": "https://github.com/GOLFJT/hello-golf#readme"
+}
